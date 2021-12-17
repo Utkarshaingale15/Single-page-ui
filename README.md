@@ -1,6 +1,6 @@
 # Single-page-ui
 Single Page UI(user interface) using Bootstrap
-UI of E-learning System
+UI of E-learning System (Online Learning )
 
 ![1](https://user-images.githubusercontent.com/92079968/136828714-43d6d6d3-aa00-4955-9d15-0dac7d17aa90.PNG)
 ![2](https://user-images.githubusercontent.com/92079968/136828757-25a7bdde-4eaa-4c7d-8fa8-5f23111aca57.PNG)
